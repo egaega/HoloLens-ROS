@@ -2,7 +2,7 @@
 
 ## Check PC spec
 ### 1.CPU, GPU, BIOS spec
-The HoloLens emulator is based on Hyper-V and uses RemoteFx for hardware accelerated graphics. 　
+The HoloLens emulator is based on Hyper-V and uses RemoteFx for hardware accelerated graphics. 
 #### To use the emulator, make sure your PC meets these hardware requirements:  
   * 64-bit Windows 10 Pro, Enterprise, or Education (The Home edition does not support Hyper-V or the HoloLens emulator)  
   * 64-bit CPU  
