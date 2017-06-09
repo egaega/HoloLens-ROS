@@ -23,8 +23,8 @@ https://developer.microsoft.com/en-us/windows/mixed-reality/install_the_tools
 ## Install
 ### 1.Unity
 ### 2.Install VS2017 (or VS2015)
-necessary package : Universal Windows Platform development, Game Development with Unity
-better? : deselect the Unity Editor optional component if installed a newer veersion of Unity
+necessary package : Universal Windows Platform development, Game Development with Unity  
+better? : deselect the Unity Editor optional component if installed a newer version of Unity
 ### 3.Hololens Emulator
 if hyper-V is not active, never end install.
 ### 4.Vuforia
