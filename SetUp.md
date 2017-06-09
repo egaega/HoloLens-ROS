@@ -21,7 +21,7 @@ from https://developer.microsoft.com/en-us/windows/mixed-reality/install_the_too
 
 ## Install
 ### 1.Unity
-### 2.Install VS2017 or VS2015
+### 2.Install VS2017 (or VS2015)
 necessary package : Universal Windows Platform development, Game Development with Unity
 better? : deselect the Unity Editor optional component if installed a newer veersion of Unity
 ### 3.Hololens Emulator
