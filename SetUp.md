@@ -16,7 +16,8 @@ The HoloLens emulator is based on Hyper-V and uses RemoteFx for hardware acceler
   * DirectX 11.0 or later  
   * WDDM 1.2 driver or later
   
-If your system meets the above requirements, please ensure that the "Hyper-V" feature has been enabled on your system through Control Panel -> Programs -> Programs and Features -> Turn Windows Features on or off -> ensure that "Hyper-V" is selected for the Emulator installation to be successful.  Reference : 
+If your system meets the above requirements, please ensure that the "Hyper-V" feature has been enabled on your system through Control Panel -> Programs -> Programs and Features -> Turn Windows Features on or off -> ensure that "Hyper-V" is selected for the Emulator installation to be successful.  
+Reference : 
 https://developer.microsoft.com/en-us/windows/mixed-reality/install_the_tools
 ### 2.Activate "hyper-V"
 
