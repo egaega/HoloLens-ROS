@@ -17,7 +17,7 @@ WDDM 1.2 driver or later
 If your system meets the above requirements, please ensure that the "Hyper-V" feature has been enabled on your system through Control Panel -> Programs -> Programs and Features -> Turn Windows Features on or off -> ensure that "Hyper-V" is selected for the Emulator installation to be successful.
 
 https://developer.microsoft.com/en-us/windows/mixed-reality/install_the_tools
-### 2.activation "Hyper-V"
+### 2.Activate "hyper-V"
 
 ## Install
 ### 1.Unity
