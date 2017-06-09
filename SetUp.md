@@ -20,8 +20,9 @@ from https://developer.microsoft.com/en-us/windows/mixed-reality/install_the_too
 ### 2.activation "Hyper-V"
 
 ## Install
-### Unity
-### Install VS2017 or VS2015
-necessary package Universal Windows Platform development, Game Development with Unity.
-### Hololens Emulator
-### Vuforia
+### 1.Unity
+### 2.Install VS2017 or VS2015
+necessary package : Universal Windows Platform development, Game Development with Unity
+better? : deselect the Unity Editor optional component if installed a newer veersion of Unity
+### 3.Hololens Emulator
+### 4.Vuforia
