@@ -16,7 +16,7 @@ DirectX 11.0 or later
 WDDM 1.2 driver or later
 If your system meets the above requirements, please ensure that the "Hyper-V" feature has been enabled on your system through Control Panel -> Programs -> Programs and Features -> Turn Windows Features on or off -> ensure that "Hyper-V" is selected for the Emulator installation to be successful.
 
-from https://developer.microsoft.com/en-us/windows/mixed-reality/install_the_tools
+https://developer.microsoft.com/en-us/windows/mixed-reality/install_the_tools
 ### 2.activation "Hyper-V"
 
 ## Install
@@ -25,4 +25,5 @@ from https://developer.microsoft.com/en-us/windows/mixed-reality/install_the_too
 necessary package : Universal Windows Platform development, Game Development with Unity
 better? : deselect the Unity Editor optional component if installed a newer veersion of Unity
 ### 3.Hololens Emulator
+if hyper-V is not active, never end install.
 ### 4.Vuforia
