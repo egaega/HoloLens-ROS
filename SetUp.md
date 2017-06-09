@@ -24,7 +24,7 @@ Reference : https://developer.microsoft.com/en-us/windows/mixed-reality/install_
 ## Install
 ### 1.Unity
 ### 2.Install VS2017 (or VS2015)
-necessary package : Universal Windows Platform development, Game Development with Unity, Windows10 SDK, Windows8.1 SDK  
+necessary package : Universal Windows Platform development, Game Development with Unity, Windows10 SDK, Windows8.1 SDK  
 better? : deselect the Unity Editor optional component if installed a newer version of Unity
 ### 3.Hololens Emulator
 if hyper-V is not active, never end install.
