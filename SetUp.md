@@ -29,9 +29,9 @@ better? : deselect the Unity Editor optional component if installed a newer vers
 
 If you install vs2017, the following operations must be performed.
  start "regedit"  
-  HKEY_LOCAL_MACHINE > SOFTWARE > Microsoft > Analog
-  (if Analog don't exist, create Key
-  Add "string value"
+  HKEY_LOCAL_MACHINE > SOFTWARE > Microsoft > Analog  
+  (if Analog don't exist, create Key  
+  Add "string value"  
    name：OverrideHoloLensSDKPrerequisites  
    data：TRUE
   
