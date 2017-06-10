@@ -47,5 +47,8 @@ if hyper-V is not active, never end install.
 
 
 ## Outline
-### 1.Unity : programing
-### 2.vs2017 : unity's program export vs2017 and start emulator
+***
+### 1.Unity :  
+programing
+### 2.vs2017 :  
+unity's program export vs2017 and start emulator
