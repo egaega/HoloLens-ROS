@@ -1,4 +1,4 @@
-#Set Up Development environment
+# Set Up Development environment
 
 ## Check PC spec
 ### 1.CPU, GPU, BIOS spec
