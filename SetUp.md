@@ -33,7 +33,7 @@ If you install vs2017, the following operations must be performed.
   (if Analog don't exist, create Key  
   Add "string value"      
    name：OverrideHoloLensSDKPrerequisites  
-   data：TRUE
+    data：TRUE
   
  do the same operation   
   HKEY_LOCAL_MACHINE > SOFTWARE > WOW6432Node > Microsoft > Analog 
