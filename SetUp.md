@@ -34,6 +34,7 @@ If you install vs2017, the following operations must be performed.
   Add "string value"  
   name：OverrideHoloLensSDKPrerequisites  
   data：TRUE  
+  
   Reference : http://qiita.com/atsuo1203/items/6732110f6120ecbc2a76
   
  do the same operation   
