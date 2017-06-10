@@ -27,11 +27,16 @@ Reference : https://developer.microsoft.com/en-us/windows/mixed-reality/install_
 necessary package : Universal Windows Platform development, Game Development with Unity, Windows10 SDK, Windows8.1 SDK  
 better? : deselect the Unity Editor optional component if installed a newer version of Unity
 
-If you install vs2017
- regedit  
-  HKEY_LOCAL_MACHINE > SOFTWARE > Microsoft > Analog  
-   名前：OverrideHoloLensSDKPrerequisites  
-   データ：TRUE
+If you install vs2017, the following operations must be performed.
+ start "regedit"  
+  HKEY_LOCAL_MACHINE > SOFTWARE > Microsoft > Analog
+  (if Analog don't exist, create Key
+  Add "string value"
+   name：OverrideHoloLensSDKPrerequisites  
+   data：TRUE
+  
+ do the same operation   
+  HKEY_LOCAL_MACHINE > SOFTWARE > WOW6432Node > Microsoft > Analog 
 ### 3.Hololens Emulator
 if hyper-V is not active, never end install.
 ### 4.Vuforia
