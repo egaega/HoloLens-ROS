@@ -1,6 +1,6 @@
 # Set Up Development environment
 
-## Check PC spec***
+## Check PC spec ***
 ### 1.CPU, GPU, BIOS spec
 The HoloLens emulator is based on Hyper-V and uses RemoteFx for hardware accelerated graphics. 
 #### To use the emulator, make sure your PC meets these hardware requirements:  
@@ -21,7 +21,7 @@ If your system meets the above requirements, please ensure that the "Hyper-V" fe
 Reference : https://developer.microsoft.com/en-us/windows/mixed-reality/install_the_tools
 ### 2.Activate "hyper-V"
 
-## Install***
+## Install ***
 ### 1.Unity
 ### 2.Install VS2017 (or VS2015)
 necessary package : Universal Windows Platform development, Game Development with Unity, Windows10 SDK, Windows8.1 SDK  
