@@ -22,7 +22,8 @@ If your system meets the above requirements, please ensure that the "Hyper-V" fe
 Reference : https://developer.microsoft.com/en-us/windows/mixed-reality/install_the_tools
 ### 2.Activate "hyper-V"
 
-## Install ***
+## Install
+***
 ### 1.Unity
 ### 2.Install VS2017 (or VS2015)
 necessary package : Universal Windows Platform development, Game Development with Unity, Windows10 SDK, Windows8.1 SDK  
