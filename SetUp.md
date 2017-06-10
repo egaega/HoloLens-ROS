@@ -1,6 +1,7 @@
 # Set Up Development environment
 
-## Check PC spec ***
+## Check PC spec
+***
 ### 1.CPU, GPU, BIOS spec
 The HoloLens emulator is based on Hyper-V and uses RemoteFx for hardware accelerated graphics. 
 #### To use the emulator, make sure your PC meets these hardware requirements:  
