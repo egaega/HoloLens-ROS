@@ -7,3 +7,5 @@ if you take photos, movies, you should use "hololens device portal".
 URL : https//(IP adress)  
 user name : (usual for IRVS)  
 password : (usual for IRVS)
+
+reference(official):https://docs.microsoft.com/ja-jp/windows/uwp/debug-test-perf/device-portal-hololens
