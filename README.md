@@ -1,11 +1,10 @@
-# PR_hololens
-Development of Previewed Reality on Hololens
+# HoloLens-ROS
+This project is for realization of communication between HoloLens(UWP) and ROS.
 
-## for demo
-if you take photos, movies, you should use "hololens device portal".
-
-URL : https//(IP adress)  
-user name : (usual for IRVS)  
-password : (usual for IRVS)
-
-reference(official):https://docs.microsoft.com/ja-jp/windows/uwp/debug-test-perf/device-portal-hololens
+Requirements  
+    * ROS
+        * RosBridge(websocket)
+    * HoloLens(UWP)
+        * Newtonsoft.Json.dll(on Unity)
+        * websocket-sharp.dll(on Unity)
+        * Newtonsoft.Json.dll(on UWP)
